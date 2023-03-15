@@ -17,9 +17,9 @@
       },
       {
         "title": "Documentation",
-        "scorePercent": 25,
-        "scoreLabel": "Red",
-        "scoreSuccess": "failure"
+        "scorePercent": 50,
+        "scoreLabel": "Yellow",
+        "scoreSuccess": "almost-failure"
       },
       {
         "title": "Operations",
